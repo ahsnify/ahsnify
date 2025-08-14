@@ -1,7 +1,4 @@
 <h1 align="center">Hey there! I’m Ahsan 🚀</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20views&color=0e75b6&style=flat" alt="ahsnify" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=63C5CA&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;I’m+a+passionate+Full‑Stack+Web+Developer+&+Programmer+dedicated+to+crafting+meaningful+digital+experiences;" alt="Typing SVG" />
@@ -143,6 +140,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 ### 🎉 **Grateful for Your Visit**
 <p align="center">
   <img src="https://img.shields.io/github/followers/lalitkumarjangid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahsnify" />
 </p>
 
 
@@ -156,16 +154,15 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 ---
 
 
-### ✍️ **Inspiring Developer Insight**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+### ✍️ **Inspiring Developer Insight**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <div>
