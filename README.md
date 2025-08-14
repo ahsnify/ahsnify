@@ -1,5 +1,6 @@
 <h1 align="center">Hey there! I’m Ahsan 🚀</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=63C5CA&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;I’m+a+passionate+Full‑Stack+Web+Developer+&+Programmer+dedicated+to+crafting+meaningful+digital+experiences;" alt="Typing SVG" />
 </p>
