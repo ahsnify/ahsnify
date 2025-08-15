@@ -8,6 +8,12 @@
 
 
 <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ahsan....;I'm+a+Full+Stack+Developer;Nice+to+meet+you!&center=true&size=25&color=FF4F79">
+  </a>
+</h1>
+
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF4F79&center=true&vCenter=true&width=800&lines=I'm+Ahsan;Welcome+to+my+Profile!;I’m+a+passionate+Full‑Stack+Developer;" alt="Typing SVG" />
 </h1>
 
