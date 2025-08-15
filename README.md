@@ -1,31 +1,14 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZhZDRyOTF4ZGJ6eWtjbm9kYjFvZ3ZwdXYxODRuc3MzemVjZjJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUnRTJ0zqHJRe/giphy.gif" height="230" width="1920" />
 
-<div style="
-  font-size: 48px; 
-  font-weight: bold; 
-  background: linear-gradient(270deg, #ff4f79, #ff758c, #ffcc70, #ff4f79); 
-  background-size: 800% 800%;
-  -webkit-background-clip: text; 
-  -webkit-text-fill-color: transparent; 
-  animation: gradientMove 6s ease infinite;
-">
-  Hey there! <br> I'm Ahsan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-       width="60px" 
-       style="position: relative; margin-left: 6px; top: 6px;" />
-</div>
 
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<div style="font-size: 48px; font-weight: bold;"> Hey there! <br> I'm Ahsan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" style="position: relative; margin-left: 6px; top: 6px;" /> </div>
+
 
 ---
 
+
+</div>
 
 <br>
 
@@ -49,8 +32,8 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 
 ### 🎯 **What Drives Me**
-- 🚀 On a mission to bring a **revolutionary product** to life.
-- 🤝 Always open to collaborating with **forward‑thinking, innovation‑driven startups**.
+- 🚀 On a mission to bring a **revolutionary product** to life.  
+- 🤝 Always open to collaborating with **forward-thinking, innovation-driven startups**.
 
 
 ---
@@ -66,7 +49,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 ---
 
 
-### 💻 **Tools & Technologies I Work With**
+### 💻 **Tools & Technologies I Work With:**
 
 <div align="center">
 
