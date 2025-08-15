@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle; margin-left: 4px;" />
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle; margin-left: 4px;" />
 </h1>
 
 
@@ -20,9 +20,8 @@ I’m a self‑taught Full‑Stack Developer & Programmer with over 8 years of h
 I thrive on exploring emerging technologies and transforming ideas into reality.
 Currently, I’m leading the development of India’s premier online jewelry marketplace — a project driven by quality, creativity, and purpose.
 
-<h1>
-  ---
-</h1>
+
+<h1></h1>
 
 
 ### 🎯 **What Drives Me**
@@ -31,7 +30,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 - 🤝 Always open to collaborating with **forward-thinking, innovation-driven startups**.
 
 
----
+<h1></h1>
 
 
 ### 📬 **Let’s Connect**
@@ -41,7 +40,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 </p>
 
 
----
+<h1></h1>
 
 
 ### 💻 **Tools & Technologies I Work With:**
@@ -126,7 +125,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 
----
+<h1></h1>
 
 
 ### 📊 **My GitHub Journey in Numbers**
@@ -144,7 +143,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 </p>
 
 
----
+<h1></h1>
 
 
 ### 🏆 **My GitHub Achievements**
@@ -155,12 +154,11 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 />
 
 
----
+<h1></h1>
 
 
 ### 🎉 **Grateful for Your Visit**
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ahsnify?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
   <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahsnify" />
 </p>
 
