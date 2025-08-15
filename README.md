@@ -139,6 +139,10 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 </p>
 
 <p align="center" style="margin: 20px 0;">
+  <img src="https://streak-stats.demolab.com/?user=ahsnify=react&border=61dafb&hide_border=true" />
+</p>
+
+<p align="center" style="margin: 20px 0;">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsnify&size_weight=0.15&count_weight=0.5&include_all_commits=false&count_private=false&layout=compact&theme=radical&hide_border=true">
 </p>
 
