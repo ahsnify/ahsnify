@@ -25,7 +25,6 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 
 ### 🎯 **What Drives Me**
-
 - 🚀 On a mission to bring a **revolutionary product** to life.  
 - 🤝 Always open to collaborating with **forward-thinking, innovation-driven startups**.
 
@@ -35,8 +34,8 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 ### 📬 **Let’s Connect**
 <p align='center'>
-  <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 
