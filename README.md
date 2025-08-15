@@ -171,3 +171,6 @@ Currently, I’m leading the development of India’s premier online jewelry mar
     style="max-width:100%; height:auto; display:block;"
   />
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
