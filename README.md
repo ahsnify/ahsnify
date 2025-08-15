@@ -4,7 +4,7 @@
 
 <h1>
   Hey there! <br> I'm Ahsan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-       width="38px" 
+       width="40px" 
        style="position: relative; top: 6px;" />
 </h1>
 </div>
