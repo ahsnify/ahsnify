@@ -158,8 +158,23 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 ---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+### 🏆 **My GitHub Achievements**
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=ahsnify&theme=radical&no-frame=true&no-bg=false&margin-w=4" 
+  alt="GitHub Achievements"
+  style="max-width:100%; height:auto; display:block;"
+/>
+
+---
+
+
+<div align="center" style="width:100%; display:flex; justify-content:center;">
+  <img 
+    src="https://profile-readme-generator.com/assets/snake.svg" 
+    alt="Snake animation"
+    style="max-width:100%; height:auto; display:block;"
+  />
 </div>
 
 
@@ -167,13 +182,8 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 
 ### ✍️ **Inspiring Developer Insight**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" style="margin:0; padding:0;" />
-
----
-
-
-### 🏆 **My GitHub Achievements**
-![](https://github-profile-trophy.vercel.app/?username=ahsnify&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
----
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+  alt="quote"
+  style="max-width:100%; height:auto; display:block; margin:0; padding:0;"
+/>
