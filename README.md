@@ -182,7 +182,3 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 <p align="center">
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
