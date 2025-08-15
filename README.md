@@ -151,7 +151,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 ### 🎉 **Grateful for Your Visit**
 <p align="center">
-  <img src="https://img.shields.io/github/followers/lalitkumarjangid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/ahsnify?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
   <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahsnify" />
 </p>
 
