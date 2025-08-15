@@ -3,12 +3,9 @@
 
 
 <h1 align="center">
-  Hey there! <br> I'm Ahsan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-       width="40px" 
-       style="position: relative; top: 6px;" />
+  Hey there! <br> I'm Ahsan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="position: relative; top: 6px;" />
 </h1>
 
-<hr>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF4F79&center=true&vCenter=true&width=800&lines=Welcome+to+my+Profile!;I’m+a+passionate+Full‑Stack+Developer;" alt="Typing SVG" />
