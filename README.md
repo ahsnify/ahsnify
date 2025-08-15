@@ -1,46 +1,69 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZhZDRyOTF4ZGJ6eWtjbm9kYjFvZ3ZwdXYxODRuc3MzemVjZjJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUnRTJ0zqHJRe/giphy.gif" height="230" width="1920" />
 
-   <h1>
-  Hey there! I'm Ahsan
+<div style="
+  font-size: 48px; 
+  font-weight: bold; 
+  background: linear-gradient(270deg, #ff4f79, #ff758c, #ffcc70, #ff4f79); 
+  background-size: 800% 800%;
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  animation: gradientMove 6s ease infinite;
+">
+  Hey there! <br> I'm Ahsan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-       width="40px" 
-       style="vertical-align: middle;" />
-</h1>
+       width="60px" 
+       style="position: relative; margin-left: 6px; top: 6px;" />
 </div>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF7EB3&center=true&vCenter=true&width=800&lines=Welcome+to+my+Profile!;I’m+a+passionate+Full‑Stack+Developer+&+Programmer+dedicated+to+crafting+meaningful+digital+experiences;" alt="Typing SVG" />
-</p>
+<style>
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 ---
 
+
+<br>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF4F79&center=true&vCenter=true&width=800&lines=Welcome+to+my+Profile!;I’m+a+passionate+Full‑Stack+Developer;" alt="Typing SVG" />
+</p>
+
+
+---
+
+
 ### 💫 **About Me**
-I’m a self‑taught Full‑Stack Developer with over 8 years of hands‑on experience in building innovative and high‑impact solutions.<br>
+I’m a self‑taught Full‑Stack Developer & Programmer with over 8 years of hands‑on experience in building innovative and high‑impact solutions.<br>
 
 I thrive on exploring emerging technologies and transforming ideas into reality.
 Currently, I’m leading the development of India’s premier online jewelry marketplace — a project driven by quality, creativity, and purpose.
 
+
 ---
+
 
 ### 🎯 **What Drives Me**
 - 🚀 On a mission to bring a **revolutionary product** to life.
 - 🤝 Always open to collaborating with **forward‑thinking, innovation‑driven startups**.
 
+
 ---
+
 
 ### 📬 **Let’s Connect**
-<p align="center">
-  <a href="mailto:erlalitkumar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  <a href="https://www.linkedin.com/in/ahsnify">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="images/1.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="images/2.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
----
 
+---
 
 
 ### 💻 **Tools & Technologies I Work With**
@@ -130,17 +153,16 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 ### 📊 **My GitHub Journey in Numbers**
 
-<p align="center">
-  <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsnify&theme=radical&hide_border=false&border=FFFFFF">
+<p align="center" style="margin: 20px 0;">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsnify&theme=radical&hide_border=true&border=FFFFFF">
 </p>
 
-<p align="center">
-  <img width="600" height="200" src="https://nirzak-streak-stats.vercel.app/?user=ahsnify&theme=radical&hide_border=true">
+<p align="center" style="margin: 20px 0;">
+  <img width="600" src="https://nirzak-streak-stats.vercel.app/?user=ahsnify&theme=radical&hide_border=true">
 </p>
-<br>
 
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsnify&size_weight=0.15&count_weight=0.5&include_all_commits=false&count_private=false&layout=compact&theme=radical&hide_border=true">
+<p align="center" style="margin: 20px 0;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsnify&size_weight=0.15&count_weight=0.5&include_all_commits=false&count_private=false&layout=compact&theme=radical&hide_border=true">
 </p>
 
 
