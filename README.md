@@ -174,4 +174,4 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 
 ### ✍️ **Inspiring Developer Insight**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" style="margin:0; padding:0;" />
