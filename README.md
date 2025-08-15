@@ -1,18 +1,23 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZhZDRyOTF4ZGJ6eWtjbm9kYjFvZ3ZwdXYxODRuc3MzemVjZjJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUnRTJ0zqHJRe/giphy.gif" height="230" width="1920" />
 
-
-<div style="font-size: 48px; font-weight: bold;"> Hey there! <br> I'm Ahsan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" style="position: relative; margin-left: 6px; top: 6px;" /> </div>
-
-
----
-
-
+<div style="font-size: 40px; font-weight: bold;">
+  Hey there! <br> I'm Ahsan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+       width="60px" 
+       style="vertical-align: middle;" />
 </div>
 
-<br>
 
+<h1>
+  Hey there! I'm Ahsan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+       width="40px" 
+       style="vertical-align: middle;" />
+</h1>
+</div>
 
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF4F79&center=true&vCenter=true&width=800&lines=Welcome+to+my+Profile!;I’m+a+passionate+Full‑Stack+Developer;" alt="Typing SVG" />
 </p>
