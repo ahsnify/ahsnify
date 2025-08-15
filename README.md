@@ -158,20 +158,22 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 ---
 
-
-### 🏆 **My GitHub Achievements**
-![](https://github-profile-trophy.vercel.app/?username=ahsnify&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
----
-
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
 
 ### ✍️ **Inspiring Developer Insight**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" style="margin:0; padding:0;" />
+
+---
+
+
+### 🏆 **My GitHub Achievements**
+![](https://github-profile-trophy.vercel.app/?username=ahsnify&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+---
