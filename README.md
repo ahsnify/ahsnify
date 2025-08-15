@@ -7,12 +7,9 @@
 </h1>
 
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF4F79&center=true&vCenter=true&width=800&lines=I'm+Ahsan;Welcome+to+my+Profile!;I’m+a+passionate+Full‑Stack+Developer;" alt="Typing SVG" />
-</p>
-
-
----
+</h1>
 
 
 ### 💫 **About Me**
@@ -26,6 +23,7 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 
 
 ### 🎯 **What Drives Me**
+
 - 🚀 On a mission to bring a **revolutionary product** to life.  
 - 🤝 Always open to collaborating with **forward-thinking, innovation-driven startups**.
 
@@ -146,16 +144,6 @@ Currently, I’m leading the development of India’s premier online jewelry mar
 ---
 
 
-### 🎉 **Grateful for Your Visit**
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ahsnify?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahsnify" />
-</p>
-
-
----
-
-
 ### 🏆 **My GitHub Achievements**
 <img 
   src="https://github-profile-trophy.vercel.app/?username=ahsnify&theme=radical&no-frame=true&no-bg=false&margin-w=4" 
@@ -163,7 +151,15 @@ Currently, I’m leading the development of India’s premier online jewelry mar
   style="max-width:100%; height:auto; display:block;"
 />
 
+
 ---
+
+
+### 🎉 **Grateful for Your Visit**
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahsnify?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahsnify" />
+</p>
 
 
 <div align="center" style="width:100%; display:flex; justify-content:center;">
@@ -173,12 +169,3 @@ Currently, I’m leading the development of India’s premier online jewelry mar
     style="max-width:100%; height:auto; display:block;"
   />
 </div>
-
-
-<hr>
-
-
-### ✍️ **Inspiring Developer Insight**
-<p align="center">
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
-</p>
