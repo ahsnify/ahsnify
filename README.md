@@ -2,12 +2,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZhZDRyOTF4ZGJ6eWtjbm9kYjFvZ3ZwdXYxODRuc3MzemVjZjJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUnRTJ0zqHJRe/giphy.gif" height="230" width="1920" />
 
 
-<h1>
+<h1 align="center">
   Hey there! <br> I'm Ahsan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
        width="40px" 
        style="position: relative; top: 6px;" />
 </h1>
-</div>
 
 <hr>
 
