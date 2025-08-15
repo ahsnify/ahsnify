@@ -20,8 +20,9 @@ I’m a self‑taught Full‑Stack Developer & Programmer with over 8 years of h
 I thrive on exploring emerging technologies and transforming ideas into reality.
 Currently, I’m leading the development of India’s premier online jewelry marketplace — a project driven by quality, creativity, and purpose.
 
-
----
+<h1>
+  ---
+</h1>
 
 
 ### 🎯 **What Drives Me**
