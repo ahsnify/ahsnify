@@ -29,8 +29,8 @@ To strengthen my product execution, I completed the Product Management with Appl
 
 
 ### 🎯 **What Drives Me**
-- 🚀 On a mission to bring a **revolutionary product** to life.  
-- 🤝 Always open to collaborating with **forward-thinking, innovation-driven startups**.
+- 🚀 **End-to-End Ownership**: Driven by the entire lifecycle—from writing clean code to defining **product strategy and user flows**.
+- 🤝 **Collaboration**: Always open to connecting with **product-minded engineering teams and ambitious startups**.
 
 
 <h1></h1>
