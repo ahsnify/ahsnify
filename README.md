@@ -9,16 +9,20 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....,;a+Full+Stack+Developer;It's+great+to+meet+you!&center=true&size=25&color=FF4F79">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....,;a+Software+Engineer+and+Product+Builder;focused+on+building+practical,+scalable+digital+products;It's+great+to+meet+you!&center=true&size=25&color=FF4F79&width=800">
   </a>
 </h1>
 
 
 ### 💫 **About Me**
-I’m a self‑taught Full‑Stack Developer & Programmer with over 8 years of hands‑on experience in building innovative and high‑impact solutions.<br>
 
-I thrive on exploring emerging technologies and transforming ideas into reality.
-Currently, I’m leading the development of India’s premier online jewelry marketplace — a project driven by quality, creativity, and purpose.
+<div align="justify">
+I’m a software engineer and product builder driven by a simple goal: building scalable digital products that solve real problems. While my foundation is in writing production code, my focus is bridging the gap between technical architecture and business value.<br><br>
+
+As a freelance developer, I build end-to-end web solutions for clients. Previously, I architected and developed a full-stack digital marketplace for jewelry retail, managing everything from the database design to the end-user checkout flow.<br>
+
+To strengthen my product execution, I completed the Product Management with Applied AI program at IIT Roorkee. Combined with my Oracle certifications in Generative AI and Data Science, I actively focus on prototyping and integrating practical AI capabilities into software to create intuitive user experiences.
+</div>
 
 
 <h1></h1>
