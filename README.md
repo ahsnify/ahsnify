@@ -9,170 +9,136 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....,;a+Software+Engineer+and+Product+Builder;focused+on+building+practical,+scalable+digital+products;It's+great+to+meet+you!&center=true&size=25&color=FF4F79&width=800">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....;+Product+Manager+%7C+SWE+Background;Turning+Complex+Systems+into+High-Impact+Solutions&center=true&size=25&color=FF4F79&width=800">
   </a>
 </h1>
 
+<h1></h1>
 
 ### 💫 **About Me**
 
 <div align="justify">
-I’m a software engineer and product builder driven by a simple goal: building scalable digital products that solve real problems. While my foundation is in writing production code, my focus is bridging the gap between technical architecture and business value.<br><br>
+I operate at the intersection of <strong>software engineering</strong> and <strong>product strategy</strong>. With a foundation in writing production-ready code and specialized training in <strong>Product Management with Applied AI from IIT Roorkee</strong>, my focus is bridging the gap between technical architecture and business value.
+<br>
+<br>
 
-As a freelance developer, I build end-to-end web solutions for clients. Previously, I architected and developed a full-stack digital marketplace for jewelry retail, managing everything from the database design to the end-user checkout flow.<br>
+* **Product Execution:** Focus on customer discovery, translating business requirements into technical specs, and knowing when AI creates actual product leverage versus simple deterministic logic.
+* **Full-Stack Engineering:** Experienced in architecting end-to-end web applications—including database design, API integration, state management, and seamless checkout flows (e.g., jewelry retail digital marketplace).
+* **AI & Data Solutions:** Oracle-certified in Generative AI and Data Science; actively prototyping practical LLM capabilities and data pipelines into production applications.
 
-To strengthen my product execution, I completed the Product Management with Applied AI program at IIT Roorkee. Combined with my Oracle certifications in Generative AI and Data Science, I actively focus on prototyping and integrating practical AI capabilities into software to create intuitive user experiences.
-</div>
 
 
 <h1></h1>
 
 
 ### 🎯 **What Drives Me**
-- 🚀 **End-to-End Ownership**: Driven by the entire lifecycle—from writing clean code to defining **product strategy and user flows**.
-- 🤝 **Collaboration**: Always open to connecting with **product-minded engineering teams and ambitious startups**.
-
-
+* 🚀 **End-to-End Ownership:** Passionate about the complete product lifecycle—from user interviews and PRD creation to system design and deployment.
+* 📈 **Business & User Impact:** Measuring success through user retention, reduced friction, and tangible ROI rather than just closed Jira tickets.
+* 🤝 **High-Velocity Collaboration:** Partnering with cross-functional teams, product-minded engineers, and early-stage founders.
+</div>
 <h1></h1>
 
-
 ### 📬 **Let’s Connect**
-<p align='center'>
+<!-- <p align="center">
+  Portfolio / Website
+  <a href="https://portfolio-lemon-seven-67.vercel.app" target="_blank">
+    <img height="38" width="38" src="/3.png?raw=true" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <!-- <a href="https://www.linkedin.com/in/ahsnify/" target="_blank">
+    <img height="38" width="38" src="/2.png?raw=true" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp; -->
+  <!-- Gmail -->
+  <!-- <a href="mailto:ahsanshazi786yo@gmail.com">
+    <img height="38" width="38" src="/1.png?raw=true" alt="Email" />
+  </a>
+</p> -->
+<p align="center">
+  <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ahsnify/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ahsanshazi786yo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+<!-- <p align='center'>
   <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
 </p>
+<h1></h1> -->
 
 
-<h1></h1>
-
-
-### 💻 **Tools & Technologies I Work With:**
+### 🛠️ Product Competencies & Tech Stack
+#### 📋 **Product Management & Strategy**
+> **Competencies:** Product Strategy • PRD & Spec Writing • MVP Definition • Feature Prioritization (MoSCoW) • User Research & Discovery • Wireframing & Prototyping • Agile/Scrum
 
 <div align="center">
 
-#### **Languages**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white)
 
-#### **Hosting / SaaS**
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+#### 📈 **Product Analytics & Experimentation**
+> **Competencies:** Funnel Analysis • Retention & Cohort Tracking • A/B Testing • North Star & KPI Frameworks
 
-#### **Frameworks, Platforms & Libraries**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-%237856FF.svg?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-#### **Servers**
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+#### 🤖 **AI, Data & Workflow Automation**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-#### **Databases / ORM**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+#### 💻 **Engineering & Architecture (Technical Moat)**
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### **Design**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  
-
-#### **ML/DL**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### **CI / CD VCS**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-#### **Other**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+</div>
 
 <h1></h1>
 
-
-### 📊 **My GitHub Journey in Numbers**
-
-<p align="center" style="margin: 20px 0;">
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsnify&theme=radical&hide_border=true&border=FFFFFF">
-</p>
+### 📊 Most Used Languages
 
 <p align="center" style="margin: 20px 0;">
-  <img width="600" src="https://nirzak-streak-stats.vercel.app/?user=ahsnify&theme=radical&hide_border=true">
-</p>
-
-<p align="center" style="margin: 20px 0;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsnify&size_weight=0.15&count_weight=0.5&include_all_commits=false&count_private=false&layout=compact&theme=radical&hide_border=true">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsnify&size_weight=0.15&count_weight=0.5&include_all_commits=false&count_private=false&layout=compact&theme=radical&hide_border=true&hide_title=true" />
 </p>
 
 
-<h1></h1>
-
-
-### 🏆 **My GitHub Achievements**
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=ahsnify&theme=radical&no-frame=true&no-bg=false&margin-w=4" 
-  alt="GitHub Achievements"
-  style="max-width:100%; height:auto; display:block;"
-/>
-
-
-<h1></h1>
-
-
-### 🎉 **Grateful for Your Visit**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahsnify" />
-</p>
-
-
-<div align="center" style="width:100%; display:flex; justify-content:center;">
+<!-- Snake Eating Contributions Animation -->
+<div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0;">
   <img 
     src="https://profile-readme-generator.com/assets/snake.svg" 
     alt="Snake animation"
     style="max-width:100%; height:auto; display:block;"
   />
 </div>
+
+<!-- Profile Views Metric -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20Views&color=7952DE&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- Waving Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
