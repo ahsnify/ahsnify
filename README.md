@@ -78,7 +78,7 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 
 ### 🛠️ Product Competencies & Tech Stack
 #### 📋 **Product Management & Strategy**
-> **Competencies:** Product Strategy • PRD & Spec Writing • MVP Definition • Feature Prioritization (MoSCoW) • User Research & Discovery • Wireframing & Prototyping • Agile/Scrum
+> Product Strategy • PRD & Spec Writing • MVP Definition • Feature Prioritization (MoSCoW) • User Research & Discovery • Wireframing & Prototyping • Agile/Scrum
 
 <div align="center">
 
@@ -89,7 +89,7 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 ![Miro](https://img.shields.io/badge/Miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white)
 
 #### 📈 **Product Analytics & Experimentation**
-> **Competencies:** Funnel Analysis • Retention & Cohort Tracking • A/B Testing • North Star & KPI Frameworks
+> Funnel Analysis • Retention & Cohort Tracking • A/B Testing • North Star & KPI Frameworks
 
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-%237856FF.svg?style=for-the-badge&logo=mixpanel&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -125,7 +125,26 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 </p>
 <h1></h1>
 
-<div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0 10px 0;">
+<div align="center">
+  <img 
+    src="https://profile-readme-generator.com/assets/snake.svg" 
+    alt="Snake animation"
+    style="max-width:100%; height:auto;"
+  />
+</div>
+
+<br>
+
+<!-- Profile Views Metric -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20Views&color=7952DE&style=flat-square" height="22" alt="Profile Views" />
+</p>
+
+<!-- Waving Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+<!-- <div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0 10px 0;">
   <img 
     src="https://profile-readme-generator.com/assets/snake.svg" 
     alt="Snake animation"
@@ -134,14 +153,14 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 </div>
 
 <!-- Profile Views Metric with Balanced Spacing -->
-<p align="center" style="margin: 24px 0 12px 0;">
+<!-- <p align="center" style="margin: 24px 0 12px 0;">
   <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20Views&color=7952DE&style=flat-square" alt="Profile Views" />
-</p>
+</p> -->
 
 <!-- Waving Footer Banner -->
-<p align="center" style="margin-top: 0;">
+<!-- <p align="center" style="margin-top: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> --> 
 <!-- Snake Eating Contributions Animation -->
 <!-- <div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0;">
   <img 
