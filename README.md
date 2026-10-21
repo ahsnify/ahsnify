@@ -13,8 +13,6 @@
   </a>
 </h1>
 
-<h1></h1>
-
 ### 💫 **About Me**
 
 <div align="justify">
@@ -26,10 +24,7 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 * **Full-Stack Engineering:** Experienced in architecting end-to-end web applications—including database design, API integration, state management, and seamless checkout flows (e.g., jewelry retail digital marketplace).
 * **AI & Data Solutions:** Oracle-certified in Generative AI and Data Science; actively prototyping practical LLM capabilities and data pipelines into production applications.
 
-
-
 <h1></h1>
-
 
 ### 🎯 **What Drives Me**
 * 🚀 **End-to-End Ownership:** Passionate about the complete product lifecycle—from user interviews and PRD creation to system design and deployment.
@@ -68,6 +63,7 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+<h1></h1>
 <!-- <p align='center'>
   <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
