@@ -125,8 +125,25 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 </p>
 <h1></h1>
 
+<div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0 10px 0;">
+  <img 
+    src="https://profile-readme-generator.com/assets/snake.svg" 
+    alt="Snake animation"
+    style="max-width:100%; height:auto; display:block;"
+  />
+</div>
+
+<!-- Profile Views Metric with Balanced Spacing -->
+<p align="center" style="margin: 24px 0 12px 0;">
+  <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20Views&color=7952DE&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- Waving Footer Banner -->
+<p align="center" style="margin-top: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <!-- Snake Eating Contributions Animation -->
-<div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0;">
+<!-- <div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0;">
   <img 
     src="https://profile-readme-generator.com/assets/snake.svg" 
     alt="Snake animation"
@@ -135,11 +152,11 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 </div>
 
 <!-- Profile Views Metric -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20Views&color=7952DE&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Waving Footer Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> --> --> 
