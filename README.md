@@ -139,6 +139,7 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20Views&color=7952DE&style=flat-square" height="22" alt="Profile Views" />
 </p>
+<h1></h1>
 
 <!-- Waving Footer Banner -->
 <p align="center">
