@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....;+Product+Manager+%7C+SWE+Background;Turning+Complex+Systems+into+High-Impact+Solutions&center=true&size=33&color=FF4F79&width=850">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....;+Product+Manager+%7C+SWE+Background;Turning+Complex+Systems+into+High-Impact+Solutions&center=true&size=25&color=FF4F79&width=800">
   </a>
     <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....;+Product+Manager+%7C+SWE+Background;Turning+Complex+Systems+into+High-Impact+Solutions&center=true&size=25&color=FF4F79&width=800">
   </a> -->
