@@ -33,6 +33,19 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 </div>
 <h1></h1>
 
+### 🚀 **Featured Projects & Work**
+
+A snapshot of live products, full-stack applications, and client solutions I've architected and delivered:
+
+* 💎 **Full-Stack Jewelry Retail Marketplace:** Architected and deployed an end-to-end e-commerce platform managing product inventory, dynamic filtering, database schema, and payment checkout flows.
+* 🤖 **AI & Applied Data Solutions:** Prototyping generative workflows, custom agentic scripts, and predictive modeling using modern LLM APIs and Python pipelines.
+* 🌐 **Freelance Client Solutions:** Custom web applications engineered for performance, SEO, and business conversion.
+
+<p align="left">
+  <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/📂_Project_Directory-View_All_Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="All Projects" /></a>
+</p>
+<h1></h1>
+
 ### 📬 **Let’s Connect**
 <!-- <p align="center">
   Portfolio / Website
