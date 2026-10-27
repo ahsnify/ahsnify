@@ -18,9 +18,9 @@
 <!-- Top Quick-Action Navigation -->
 <br>
 <div align="center">
-  <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Interactive_Site-8A2BE2?style=flat-square&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ahsnify/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Interactive_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ahsnify/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:ahsanshazi786yo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 <h1></h1>
 
