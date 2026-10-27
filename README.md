@@ -57,6 +57,7 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 
 A selection of self-built ventures, AI web applications, and commercial client deliverables:
 
+* 🛵 **Zomato SwiftResolve (Multi-Modal AI Support): Prototyped an end-to-end multimodal dispute resolution agent combining the Gemini API, Make.com orchestration, and React. Engineered human-in-the-loop workflows targeting an 80% autonomous deflection rate and reducing Time-To-Resolution from multi-hour loops to under 45 seconds.
 * 💎 **Presheously (Multi-Vendor Jewelry Marketplace):** Architected a multi-vendor e-commerce marketplace—designing core flows for vendor catalog management, product discovery, and transactional checkout.
 * 🤖 **Generative AI Web Apps (RumiVerse & Photoshoot Generator):** Rapidly prototyped and deployed interactive, AI-driven consumer web apps leveraging prompt workflows and generative AI tools.
 * 🌐 **Commercial Client Solutions (SimSimJewels, Trueline Logistics, Aquaflux):** Shipped custom web solutions across retail jewelry e-commerce, logistics operations, and industrial engineering services.
