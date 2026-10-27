@@ -46,49 +46,6 @@ A selection of self-built ventures, AI web applications, and commercial client d
 </p>
 <h1></h1>
 
-### 📬 **Let’s Connect**
-<!-- <p align="center">
-  Portfolio / Website
-  <a href="https://portfolio-lemon-seven-67.vercel.app" target="_blank">
-    <img height="38" width="38" src="/3.png?raw=true" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- LinkedIn -->
-  <!-- <a href="https://www.linkedin.com/in/ahsnify/" target="_blank">
-    <img height="38" width="38" src="/2.png?raw=true" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp; -->
-  <!-- Gmail -->
-  <!-- <a href="mailto:ahsanshazi786yo@gmail.com">
-    <img height="38" width="38" src="/1.png?raw=true" alt="Email" />
-  </a>
-</p> -->
-<p align="center">
-  <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <!-- <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/📂_Projects-Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Projects" /></a>&nbsp; -->
-  <a href="https://www.linkedin.com/in/ahsnify/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-<!-- <p align="center">
-  <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ahsnify/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p> -->
-<h1></h1>
-<!-- <p align='center'>
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-<h1></h1> -->
-
 ### 🛠️ Product Craft & Tech Stack
 
 #### 📋 Product Management & Strategy
@@ -175,6 +132,49 @@ A selection of self-built ventures, AI web applications, and commercial client d
 </div> -->
 
 <h1></h1>
+
+### 📬 **Let’s Connect**
+<!-- <p align="center">
+  Portfolio / Website
+  <a href="https://portfolio-lemon-seven-67.vercel.app" target="_blank">
+    <img height="38" width="38" src="/3.png?raw=true" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <!-- <a href="https://www.linkedin.com/in/ahsnify/" target="_blank">
+    <img height="38" width="38" src="/2.png?raw=true" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp; -->
+  <!-- Gmail -->
+  <!-- <a href="mailto:ahsanshazi786yo@gmail.com">
+    <img height="38" width="38" src="/1.png?raw=true" alt="Email" />
+  </a>
+</p> -->
+<p align="center">
+  <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <!-- <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/📂_Projects-Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Projects" /></a>&nbsp; -->
+  <a href="https://www.linkedin.com/in/ahsnify/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:ahsanshazi786yo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<!-- <p align="center">
+  <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ahsnify/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ahsanshazi786yo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p> -->
+<h1></h1>
+<!-- <p align='center'>
+  <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+<h1></h1> -->
 
 ### 📊 Most Used Languages
 
