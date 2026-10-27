@@ -62,7 +62,8 @@ A selection of self-built ventures, AI web applications, and commercial client d
 * 🌐 **Commercial Client Solutions (SimSimJewels, Trueline Logistics, Aquaflux):** Shipped custom web solutions across retail jewelry e-commerce, logistics operations, and industrial engineering services.
 
 <p align="center">
-  <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%82_Project_Directory-View_All_Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="All Projects" /></a>
+  <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/Projects-Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="All Projects" /></a>
+  <!-- <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%82_Project_Directory-View_All_Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="All Projects" /></a> -->
 </p>
 <h1></h1>
 
