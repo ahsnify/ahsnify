@@ -33,19 +33,6 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 </div>
 <h1></h1>
 
-### 🚀 **Featured Projects & Work**
-
-A snapshot of live products, full-stack applications, and client solutions I've architected and delivered:
-
-* 💎 **Full-Stack Jewelry Retail Marketplace:** Architected and deployed an end-to-end e-commerce platform managing product inventory, dynamic filtering, database schema, and payment checkout flows.
-* 🤖 **AI & Applied Data Solutions:** Prototyping generative workflows, custom agentic scripts, and predictive modeling using modern LLM APIs and Python pipelines.
-* 🌐 **Freelance Client Solutions:** Custom web applications engineered for performance, SEO, and business conversion.
-
-<p align="left">
-  <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/📂_Project_Directory-View_All_Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="All Projects" /></a>
-</p>
-<h1></h1>
-
 ### 📬 **Let’s Connect**
 <!-- <p align="center">
   Portfolio / Website
@@ -88,6 +75,19 @@ A snapshot of live products, full-stack applications, and client solutions I've 
   <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 <h1></h1> -->
+
+### 🚀 **Featured Products & Systems**
+
+A selection of self-built ventures, AI web applications, and commercial client deliverables:
+
+* 💎 **Presheously (Multi-Vendor Jewelry Marketplace):** Architected a multi-vendor e-commerce marketplace—designing core flows for vendor catalog management, product discovery, and transactional checkout.
+* 🤖 **Generative AI Web Apps (RumiVerse & Photoshoot Generator):** Rapidly prototyped and deployed interactive, AI-driven consumer web apps leveraging prompt workflows and generative AI tools.
+* 🌐 **Commercial Client Solutions (SimSimJewels, Trueline Logistics, Aquaflux):** Shipped custom web solutions across retail jewelry e-commerce, logistics operations, and industrial engineering services.
+
+<p align="left">
+  <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%82_Project_Directory-View_All_Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="All Projects" /></a>
+</p>
+<h1></h1>
 
 ### 🛠️ Product Craft & Tech Stack
 
