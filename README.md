@@ -6,7 +6,6 @@
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle; margin-left: 4px;" />
 </h1>
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ahsan....;Product+Manager+%7C+SWE+Background;Turning+Complex+Systems;into+High-Impact+Solutions&center=true&size=28&color=FF4F79&width=600">
@@ -22,45 +21,46 @@
 <div align="center">
   <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Interactive_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/ahsnify/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:work.ahsankhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 <h1></h1>
 
 <!-- <p align="center">
   <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Interactive_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/ahsnify/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p> 
+  <a href="mailto:work.ahsankhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 <h1></h1> -->
 
 ### 💫 **About Me**
 
 <div align="justify">
-I operate at the intersection of <strong>software engineering</strong> and <strong>product strategy</strong>. With a foundation in writing production-ready code and specialized training in <strong>Product Management with Applied AI from IIT Roorkee</strong>, my focus is bridging the gap between technical architecture and business value.
+I operate at the intersection of <strong>software engineering</strong> and <strong>product strategy</strong>. With a foundation in writing production-ready code and specialized training in <strong>Product Management with Applied AI from IIT Roorkee</strong>, my focus is bridging the gap between technical architecture and business value.</div>
 <br>
 <br>
 
-* **Product Execution:** Focus on customer discovery, translating business requirements into technical specs, and knowing when AI creates actual product leverage versus simple deterministic logic.
-* **Full-Stack Engineering:** Experienced in architecting end-to-end web applications—including database design, API integration, state management, and seamless checkout flows (e.g., jewelry retail digital marketplace).
-* **AI & Data Solutions:** Oracle-certified in Generative AI and Data Science; actively prototyping practical LLM capabilities and data pipelines into production applications.
+- **Product Execution:** Focus on customer discovery, translating business requirements into technical specs, and knowing when AI creates actual product leverage versus simple deterministic logic.
+- **Full-Stack Engineering:** Experienced in architecting end-to-end web applications—including database design, API integration, state management, and seamless checkout flows (e.g., jewelry retail digital marketplace).
+- **AI & Data Solutions:** Oracle-certified in Generative AI and Data Science; actively prototyping practical LLM capabilities and data pipelines into production applications.
 
 <h1></h1>
 
 ### 🎯 **What Drives Me**
-* 🚀 **End-to-End Ownership:** Passionate about the complete product lifecycle—from user interviews and PRD creation to system design and deployment.
-* 📈 **Business & User Impact:** Measuring success through user retention, reduced friction, and tangible ROI rather than just closed Jira tickets.
-* 🤝 **High-Velocity Collaboration:** Partnering with cross-functional teams, product-minded engineers, and early-stage founders.
-</div>
+
+- 🚀 **End-to-End Ownership:** Passionate about the complete product lifecycle—from user interviews and PRD creation to system design and deployment.
+- 📈 **Business & User Impact:** Measuring success through user retention, reduced friction, and tangible ROI rather than just closed Jira tickets.
+- 🤝 **High-Velocity Collaboration:** Partnering with cross-functional teams, product-minded engineers, and early-stage founders.
+
 <h1></h1>
 
 ### 🚀 **Featured Products & Systems**
 
 A selection of self-built ventures, AI web applications, and commercial client deliverables:
 
-* 🍔 Zomato SwiftResolve (Multi-Modal AI Support): Prototyped an end-to-end multimodal dispute resolution agent combining the Gemini API, Make.com orchestration, and React. Engineered human-in-the-loop workflows targeting an 80% autonomous deflection rate and reducing Time-To-Resolution from multi-hour loops to under 45 seconds.
-* 💎 **Presheously (Multi-Vendor Jewelry Marketplace):** Architected a multi-vendor e-commerce marketplace—designing core flows for vendor catalog management, product discovery, and transactional checkout.
-* 🤖 **Generative AI Web Apps (RumiVerse & Photoshoot Generator):** Rapidly prototyped and deployed interactive, AI-driven consumer web apps leveraging prompt workflows and generative AI tools.
-* 🌐 **Commercial Client Solutions (SimSimJewels, Trueline Logistics, Aquaflux):** Shipped custom web solutions across retail jewelry e-commerce, logistics operations, and industrial engineering services.
+- 🍔 Zomato SwiftResolve (Multi-Modal AI Support): Prototyped an end-to-end multimodal dispute resolution agent combining the Gemini API, Make.com orchestration, and React. Engineered human-in-the-loop workflows targeting an 80% autonomous deflection rate and reducing Time-To-Resolution from multi-hour loops to under 45 seconds.
+- 💎 **Presheously (Multi-Vendor Jewelry Marketplace):** Architected a multi-vendor e-commerce marketplace—designing core flows for vendor catalog management, product discovery, and transactional checkout.
+- 🤖 **Generative AI Web Apps (RumiVerse & Photoshoot Generator):** Rapidly prototyped and deployed interactive, AI-driven consumer web apps leveraging prompt workflows and generative AI tools.
+- 🌐 **Commercial Client Solutions (SimSimJewels, Trueline Logistics, Aquaflux):** Shipped custom web solutions across retail jewelry e-commerce, logistics operations, and industrial engineering services.
 
 <p align="center">
   <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/Projects-Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="All Projects" /></a>
@@ -71,6 +71,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
 ### 🛠️ Product Craft & Tech Stack
 
 #### 📋 Product Management & Strategy
+
 > Product Strategy • PRD & Spec Writing • MVP Definition • Feature Prioritization (MoSCoW) • User Research & Discovery • Wireframing & Prototyping • Agile/Scrum
 
 <p align="center">
@@ -82,6 +83,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
 </p>
 
 #### 📈 Product Analytics & Experimentation
+
 > Funnel Analysis • Retention & Cohort Tracking • A/B Testing • North Star & KPI Frameworks
 
 <p align="center">
@@ -90,6 +92,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
 </p>
 
 #### 🤖 AI, Data & Workflow Automation
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -98,6 +101,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
 </p>
 
 #### 💻 Engineering & Architecture (Technical Moat)
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -156,6 +160,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
 <h1></h1>
 
 ### 📬 **Let’s Connect**
+
 <!-- <p align="center">
   Portfolio / Website
   <a href="https://portfolio-lemon-seven-67.vercel.app" target="_blank">
@@ -168,7 +173,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
   </a>
   &nbsp;&nbsp; -->
   <!-- Gmail -->
-  <!-- <a href="mailto:ahsanshazi786yo@gmail.com">
+  <!-- <a href="mailto:work.ahsankhan@gmail.com">
     <img height="38" width="38" src="/1.png?raw=true" alt="Email" />
   </a>
 </p> -->
@@ -176,7 +181,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
   <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Interactive_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <!-- <a href="https://linktr.ee/ahsnify" target="_blank"><img src="https://img.shields.io/badge/📂_Projects-Live_Demos-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Projects" /></a>&nbsp; -->
   <a href="https://www.linkedin.com/in/ahsnify/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:work.ahsankhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 <!-- <p align="center">
   <a href="https://portfolio-lemon-seven-67.vercel.app/" target="_blank">
@@ -187,13 +192,13 @@ A selection of self-built ventures, AI web applications, and commercial client d
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:ahsanshazi786yo@gmail.com">
+  <a href="mailto:work.ahsankhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p> -->
 <h1></h1>
 <!-- <p align='center'>
-  <a href="mailto:ahsanshazi786yo@gmail.com"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:work.ahsankhan@gmail.com"><img height="30" width="40" src="/1.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahsnify/"><img height="30" width="40" src="/2.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 <h1></h1> -->
@@ -220,7 +225,6 @@ A selection of self-built ventures, AI web applications, and commercial client d
   <img src="https://komarev.com/ghpvc/?username=ahsnify&label=Profile%20Views&color=7952DE&style=flat-square" height="22" alt="Profile Views" />
 </p>
 
-
 <!-- Waving Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -241,11 +245,11 @@ A selection of self-built ventures, AI web applications, and commercial client d
 <!-- Waving Footer Banner -->
 <!-- <p align="center" style="margin-top: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> --> 
+</p> -->
 <!-- Snake Eating Contributions Animation -->
 <!-- <div align="center" style="width:100%; display:flex; justify-content:center; margin: 30px 0;">
-  <img 
-    src="https://profile-readme-generator.com/assets/snake.svg" 
+  <img
+    src="https://profile-readme-generator.com/assets/snake.svg"
     alt="Snake animation"
     style="max-width:100%; height:auto; display:block;"
   />
@@ -259,4 +263,4 @@ A selection of self-built ventures, AI web applications, and commercial client d
 <!-- Waving Footer Banner -->
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> --> 
+</p> -->
