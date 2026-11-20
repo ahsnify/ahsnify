@@ -57,6 +57,8 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 
 <div align="justify">
 A selection of self-built ventures, AI web applications, and commercial client deliverables:</div>
+<br>
+<br>
 
 - 🍔 Zomato SwiftResolve (Multi-Modal AI Support): Prototyped an end-to-end multimodal dispute resolution agent combining the Gemini API, Make.com orchestration, and React. Engineered human-in-the-loop workflows targeting an 80% autonomous deflection rate and reducing Time-To-Resolution from multi-hour loops to under 45 seconds.
 - 💎 **Presheously (Multi-Vendor Jewelry Marketplace):** Architected a multi-vendor e-commerce marketplace—designing core flows for vendor catalog management, product discovery, and transactional checkout.
@@ -73,8 +75,7 @@ A selection of self-built ventures, AI web applications, and commercial client d
 
 #### 📋 Product Management & Strategy
 
-<div align="justify">
-> Product Strategy • PRD & Spec Writing • MVP Definition • Feature Prioritization (MoSCoW) • User Research & Discovery • Wireframing & Prototyping • Agile/Scrum</div>
+> Product Strategy • PRD & Spec Writing • MVP Definition • Feature Prioritization (MoSCoW) • User Research & Discovery • Wireframing & Prototyping • Agile/Scrum
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
