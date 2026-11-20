@@ -37,7 +37,6 @@
 <div align="justify">
 I operate at the intersection of <strong>software engineering</strong> and <strong>product strategy</strong>. With a foundation in writing production-ready code and specialized training in <strong>Product Management with Applied AI from IIT Roorkee</strong>, my focus is bridging the gap between technical architecture and business value.</div>
 <br>
-<br>
 
 - **Product Execution:** Focus on customer discovery, translating business requirements into technical specs, and knowing when AI creates actual product leverage versus simple deterministic logic.
 - **Full-Stack Engineering:** Experienced in architecting end-to-end web applications—including database design, API integration, state management, and seamless checkout flows (e.g., jewelry retail digital marketplace).
@@ -57,7 +56,6 @@ I operate at the intersection of <strong>software engineering</strong> and <stro
 
 <div align="justify">
 A selection of self-built ventures, AI web applications, and commercial client deliverables:</div>
-<br>
 <br>
 
 - 🍔 Zomato SwiftResolve (Multi-Modal AI Support): Prototyped an end-to-end multimodal dispute resolution agent combining the Gemini API, Make.com orchestration, and React. Engineered human-in-the-loop workflows targeting an 80% autonomous deflection rate and reducing Time-To-Resolution from multi-hour loops to under 45 seconds.
